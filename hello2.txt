@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zhouyaoxue master 2 hello
+=======
+hello 2 zhouyaoxue
+>>>>>>> hohot_fix
